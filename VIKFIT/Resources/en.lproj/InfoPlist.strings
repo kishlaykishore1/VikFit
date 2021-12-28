@@ -1,0 +1,13 @@
+/* 
+  InfoPlist.strings
+  VIKFIT
+
+*/
+
+NSCameraUsageDescription = "📸 We need to access the camera to help you illustrate your profile and your posts.";
+
+NSLocationUsageDescription = "📍 We need to know your location to send you the notifications based on your location and help you find nearby users.";
+
+NSLocationWhenInUseUsageDescription = "📍 We need to know your location to send you the notifications based on your location and help you find nearby users.";
+
+NSPhotoLibraryUsageDescription = "🖼 We need to access your gallery to help you illustrate your profile and your publications.";

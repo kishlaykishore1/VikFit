@@ -1,0 +1,158 @@
+//
+//  OTPInputView.swift
+//  Abhishek Rathi - iOS
+//  work.abhirathi@gmail.com
+//
+
+
+import UIKit
+
+public protocol OTPViewDelegate {
+    func didFinishedEnterOTP(otpNumber: String)
+    func otpNotValid()
+}
+
+@IBDesignable public class OTPInputView: UIView {
+    
+    @IBInspectable var maximumDigits: Int = 6
+    @IBInspectable var backgroundColour: UIColor = #colorLiteral(red: 0.1725490196, green: 0.1764705882, blue: 0.2039215686, alpha: 1)
+    @IBInspectable var shadowColour: UIColor = .darkGray
+    @IBInspectable var textColor: UIColor = .black
+    @IBInspectable var font: UIFont = UIFont(name: "Poppins-Light", size: 48) ?? UIFont.systemFont(ofSize: 30, weight: .bold)
+    public var delegateOTP: OTPViewDelegate?
+    
+    override public func prepareForInterfaceBuilder() {
+        setupTextFields()
+    }
+    
+    override public func awakeFromNib() {
+        setupTextFields()
+    }
+    
+    fileprivate func setupTextFields() {
+        backgroundColor = .clear
+        let stackView = UIStackView()
+        stackView.translatesAutoresizingMaskIntoConstraints = false
+        addSubview(stackView)
+        
+        NSLayoutConstraint.activate([
+            stackView.widthAnchor.constraint(equalTo: widthAnchor),
+            stackView.centerXAnchor.constraint(equalTo: centerXAnchor),
+            stackView.centerYAnchor.constraint(equalTo: centerYAnchor),
+            stackView.heightAnchor.constraint(equalTo: heightAnchor)
+            ])
+        
+        stackView.axis = .horizontal
+        stackView.alignment = .fill
+        stackView.spacing = 10
+        stackView.distribution = .fillEqually
+        
+        for tag in 1...maximumDigits {
+            let textField = OTPTextField()
+            textField.tag = tag //set Tag to textField
+            textField.keyboardAppearance = .dark
+            stackView.addArrangedSubview(textField)  // Add to stackView
+            setupTextFieldStyle(textField)  // set the style accordingly
+            
+            if tag == 1 {
+                textField.becomeFirstResponder()
+            }
+        }
+    }
+    
+    fileprivate func setupTextFieldStyle(_ textField: UITextField) {
+        textField.delegate = self // set up textfield delegate
+        textField.backgroundColor = #colorLiteral(red: 0.1725490196, green: 0.1764705882, blue: 0.2039215686, alpha: 1)
+        textField.keyboardType = .numberPad
+        textField.textAlignment = .center
+        textField.contentHorizontalAlignment = .center
+        textField.layer.cornerRadius = 10
+        textField.dropShadow(shadowOpacity: 0.6, shadowColor: shadowColour)
+        textField.textColor = textColor
+        textField.font = font
+        textField.tintColor = .clear
+    }
+}
+
+extension OTPInputView: UITextFieldDelegate {
+    
+    public func textField(_ textField: UITextField, shouldChangeCharactersIn range: NSRange, replacementString string: String) -> Bool {
+        var nextTag = 0
+        
+        if string.checkBackspace()
+        {
+            textField.deleteBackward()
+            return false
+        } else if string.count == 1
+        {
+            textField.text = string
+            nextTag = textField.tag + 1
+        } else if string.count == maximumDigits
+        {
+            var otpPasted = string
+            for tag in 1...maximumDigits {
+                guard let textfield = viewWithTag(tag) as? UITextField else { continue }
+                textfield.text = String(otpPasted.removeFirst())
+            }
+            otpFetch()
+        }
+        
+        if let nextTextfield = viewWithTag(nextTag) as? OTPTextField {
+            nextTextfield.becomeFirstResponder()
+        } else {
+            if nextTag > maximumDigits {
+                otpFetch()
+            }
+            endEditing(true)
+        }
+        return false
+    }
+    
+    public func textFieldDidBeginEditing(_ textField: UITextField) {
+        print("editing")
+    }
+    
+    
+    public func otpFetch() {
+        var otp = ""
+        for tag in 1...maximumDigits {
+            guard let textfield = viewWithTag(tag) as? UITextField else { continue }
+            otp += textfield.text!
+        }
+        
+        // Check if OTP is complete, i.e equals to maxDigits allowed
+        if otp.count == maximumDigits {
+            delegateOTP?.didFinishedEnterOTP(otpNumber: otp)
+        } else {
+            delegateOTP?.otpNotValid()
+        }
+    }
+
+}
+
+extension String {
+    func checkBackspace() -> Bool {
+        if let char = self.cString(using: String.Encoding.utf8) {
+            let isBackSpace = strcmp(char, "\\b")
+            if (isBackSpace == -92) {
+                return true
+            }
+            return false
+        }
+        return false
+    }
+}
+
+extension UIView {
+    func dropShadow( shadowRadius: CGFloat = 2.0, offsetSize: CGSize = CGSize(width: 2, height: 5), shadowOpacity: Float = 0.5, shadowColor: UIColor = UIColor.lightGray ) {
+        layer.masksToBounds = false
+        layer.shadowColor = shadowColor.cgColor
+        layer.shadowOpacity = shadowOpacity
+        layer.shadowOffset = offsetSize
+        layer.shadowRadius = shadowRadius
+    }
+    
+}
+
+
+

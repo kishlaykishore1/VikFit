@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>com.vikfit.week_3</string>
+	<string>com.vikfit.week_5</string>
+	<string>com.vikfit.3months_3</string>
+	<string>com.vikfit.3months_5</string>
+	<string>com.vikfit.6months_3</string>
+	<string>com.vikfit.6months_5</string>
+</array>
+</plist>

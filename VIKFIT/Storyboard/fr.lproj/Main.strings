@@ -1,0 +1,291 @@
+
+/* Class = "UITextField"; placeholder = "Your phone number"; ObjectID = "0dU-W9-iPh"; */
+"0dU-W9-iPh.placeholder" = "Votre numéro de téléphone";
+
+/* Class = "UIButton"; normalTitle = "NEXT"; ObjectID = "134-VB-TxJ"; */
+"134-VB-TxJ.normalTitle" = "SUIVANT";
+
+/* Class = "UIButton"; normalTitle = "CONFIRM NUMBER"; ObjectID = "1fA-f3-pXk"; */
+"1fA-f3-pXk.normalTitle" = "CONFIRMER LE NUMÉRO";
+
+/* Class = "UILabel"; text = "5 session per week"; ObjectID = "1qX-6h-NIQ"; */
+"1qX-6h-NIQ.text" = "5 sessions par semaine";
+
+/* Class = "UILabel"; text = "Progress quickly with VIKFIT trainings"; ObjectID = "1rE-8X-9rh"; */
+"1rE-8X-9rh.text" = "Progressez rapidement avec les sessions VIKFIT";
+
+/* Class = "UIButton"; normalTitle = "Your current number is +33 6 69 55 10 85"; ObjectID = "2K2-uz-L5j"; */
+"2K2-uz-L5j.normalTitle" = "Votre numéro actuel est le";
+
+/* Class = "UILabel"; text = "Your weight"; ObjectID = "4E9-pK-ep3"; */
+"4E9-pK-ep3.text" = "Votre poids";
+
+/* Class = "UIButton"; normalTitle = "ACTIVATE NOTIFICATIONS"; ObjectID = "5zT-9S-kl8"; */
+"5zT-9S-kl8.normalTitle" = "ACTIVER LES NOTIFICATIONS";
+
+/* Class = "UILabel"; text = "This information will not be published on your profile."; ObjectID = "7oX-IV-FDB"; */
+"7oX-IV-FDB.text" = "Ces informations ne seront pas visibles sur votre profil.";
+
+/* Class = "UILabel"; text = "Your answers allow us to design the most effective coaching program for you."; ObjectID = "8HA-UY-7c6"; */
+"8HA-UY-7c6.text" = "Vos réponses nous permettrons de concevoir pour vous le programme de coaching le plus efficace.";
+
+/* Class = "UIButton"; normalTitle = "DISCOVER"; ObjectID = "9JJ-dx-34N"; */
+"9JJ-dx-34N.normalTitle" = "DÉCOUVRIR";
+
+/* Class = "UILabel"; text = "Woman"; ObjectID = "9Kg-es-x8a"; */
+"9Kg-es-x8a.text" = "Femme";
+
+/* Class = "UIButton"; normalTitle = "START"; ObjectID = "9X2-5e-d2f"; */
+"9X2-5e-d2f.normalTitle" = "DÉMARRER";
+
+/* Class = "UILabel"; text = "Your gender"; ObjectID = "9dm-ZI-t0c"; */
+"9dm-ZI-t0c.text" = "Votre genre";
+
+/* Class = "UILabel"; text = "By pressing Continue with Apple you acknowledge having read our Privacy Policy and you accept our General Conditions of Use."; ObjectID = "B9o-OQ-h2W"; */
+"B9o-OQ-h2W.text" = "En appuyant sur Continuer avec Apple, vous reconnaissez avoir lu notre Politique de Confidentialité et vous acceptez nos Conditions Générales d'Utilisation.";
+
+/* Class = "UILabel"; text = "To change your number\nyou can verify it."; ObjectID = "Bz5-Pb-dQs"; */
+"Bz5-Pb-dQs.text" = "Pour changer votre numéro de téléphone \nvous devez le vérifier.";
+
+/* Class = "UILabel"; text = "Let us know if you have the basic Crossfitness equipment\nto personalize your sessions."; ObjectID = "C7G-zN-tDt"; */
+"C7G-zN-tDt.text" = "Veuillez nous préciser si vous disposez de l'équipement de base Fitness \n afin d'adapter les entraînements.";
+
+/* Class = "UILabel"; text = "No account yet ? "; ObjectID = "COm-q2-FUH"; */
+"COm-q2-FUH.text" = "Pas encore de compte?";
+
+/* Class = "UILabel"; text = "Man"; ObjectID = "ChZ-Kk-Rqy"; */
+"ChZ-Kk-Rqy.text" = "Homme";
+
+/* Class = "UILabel"; text = "Answer a few questions to generate your training program.\n\nWe will never share this information."; ObjectID = "D1B-1o-laa"; */
+"D1B-1o-laa.text" = "Répondez à quelques questions pour personnaliser votre programme d'entraînement. \n\nNous ne partagerons jamais ces informations.";
+
+/* Class = "UITextField"; placeholder = "Your last name"; ObjectID = "E8G-UX-cmb"; */
+"E8G-UX-cmb.placeholder" = "Votre nom";
+
+/* Class = "UIButton"; normalTitle = "Continue with Apple"; ObjectID = "EFY-zv-mAb"; */
+"EFY-zv-mAb.normalTitle" = "Continuer avec Apple";
+
+/* Class = "UILabel"; text = "Free"; ObjectID = "Eec-Rd-ZYy"; */
+"Eec-Rd-ZYy.text" = "Gratuit";
+
+/* Class = "UILabel"; text = "1 WEEK"; ObjectID = "FUw-GI-m1j"; */
+"FUw-GI-m1j.text" = "1 SEMAINE";
+
+/* Class = "UIButton"; normalTitle = "NEXT"; ObjectID = "FaG-aM-zqr"; */
+"FaG-aM-zqr.normalTitle" = "SUIVANT";
+
+/* Class = "UIButton"; normalTitle = "NEXT"; ObjectID = "Fue-BJ-Uiy"; */
+"Fue-BJ-Uiy.normalTitle" = "SUIVANT";
+
+/* Class = "UIButton"; normalTitle = "Code not received ?"; ObjectID = "FxB-rd-w4v"; */
+"FxB-rd-w4v.normalTitle" = "Code non reçu ?";
+
+/* Class = "UIButton"; normalTitle = "Fat"; ObjectID = "GyU-Gy-70h"; */
+"GyU-Gy-70h.normalTitle" = "Rond";
+
+/* Class = "UIButton"; normalTitle = "Restore purchases"; ObjectID = "HNj-ij-xO4"; */
+"HNj-ij-xO4.normalTitle" = "Restaurer les achats";
+
+/* Class = "UIButton"; normalTitle = "NEXT"; ObjectID = "HTf-gW-HB0"; */
+"HTf-gW-HB0.normalTitle" = "SUIVANT";
+
+/* Class = "UILabel"; text = "1 session per week"; ObjectID = "HeR-ff-on0"; */
+"HeR-ff-on0.text" = "1 session par semaine";
+
+/* Class = "UILabel"; text = "Please add your first name"; ObjectID = "Hej-nX-teg"; */
+"Hej-nX-teg.text" = "Merci de bien vouloir ajouter votre prénom";
+
+/* Class = "UIButton"; normalTitle = "SKIP"; ObjectID = "IfY-Fx-nIo"; */
+"IfY-Fx-nIo.normalTitle" = "PASSER";
+
+/* Class = "UILabel"; text = "This information will not be published on your profile."; ObjectID = "M7W-eH-fFW"; */
+"M7W-eH-fFW.text" = "Ces informations ne seront pas publiées sur votre profil.";
+
+/* Class = "UILabel"; text = "OR"; ObjectID = "Mxo-Oo-ed4"; */
+"Mxo-Oo-ed4.text" = "OU";
+
+/* Class = "UITextField"; placeholder = "Your first name"; ObjectID = "Nce-RN-Biq"; */
+"Nce-RN-Biq.placeholder" = "Votre prénom";
+
+/* Class = "UIButton"; normalTitle = "DISCOVER YOUR TRAININGS"; ObjectID = "NfI-sh-CRr"; */
+"NfI-sh-CRr.normalTitle" = "DÉCOUVREZ VOTRE ENTRAÎNEMENT";
+
+/* Class = "UITextField"; placeholder = "Your phone number"; ObjectID = "NjG-eW-9DS"; */
+"NjG-eW-9DS.placeholder" = "Votre numéro de téléphone";
+
+/* Class = "UILabel"; text = "Trainings with or without equipment to do at home or indoors"; ObjectID = "Nsi-k2-zlo"; */
+"Nsi-k2-zlo.text" = "Entraînement avec ou sans matériel à faire à domicile ou en salle";
+
+/* Class = "UIButton"; normalTitle = "RECEIVE A VERIFICATION CODE"; ObjectID = "OoT-qg-hAT"; */
+"OoT-qg-hAT.normalTitle" = "CODE DE VÉRIFICATION";
+
+/* Class = "UILabel"; text = "Create your program."; ObjectID = "PWk-kG-9ml"; */
+"PWk-kG-9ml.text" = "Créez votre programme.";
+
+/* Class = "UILabel"; text = "Start your training.\nNow."; ObjectID = "Rdm-vZ-W0h"; */
+"Rdm-vZ-W0h.text" = "Commencez l'entraînement.\nMaintenant.";
+
+/* Class = "UILabel"; text = "🇫🇷 +33"; ObjectID = "Rvw-cW-EGD"; */
+"Rvw-cW-EGD.text" = "🇫🇷 +33";
+
+/* Class = "UILabel"; text = "Without equipment"; ObjectID = "SGQ-wI-U1v"; */
+"SGQ-wI-U1v.text" = "Sans équipement";
+
+/* Class = "UIButton"; normalTitle = "SKIP THIS STEP"; ObjectID = "Sar-c5-v9c"; */
+"Sar-c5-v9c.normalTitle" = "PASSER CETTE ÉTAPE";
+
+/* Class = "UILabel"; text = "3 MONTHS"; ObjectID = "SrK-dC-ezd"; */
+"SrK-dC-ezd.text" = "3 MOIS";
+
+/* Class = "UILabel"; text = "Let's start with the presentations"; ObjectID = "T6U-kx-Pyk"; */
+"T6U-kx-Pyk.text" = "Commençons par les présentations";
+
+/* Class = "UILabel"; text = "We have sent you a verification code at \n+33 6 69 55 10 85"; ObjectID = "Tul-zV-GS1"; */
+"Tul-zV-GS1.text" = "Nous vous avons envoyé un code de vérification au \n";
+
+/* Class = "UILabel"; text = "Select your body type"; ObjectID = "UIM-UB-ZG1"; */
+"UIM-UB-ZG1.text" = "Sélectionnez votre morphologie";
+
+/* Class = "UIButton"; normalTitle = "NEXT"; ObjectID = "UQi-U1-cAg"; */
+"UQi-U1-cAg.normalTitle" = "SUIVANT";
+
+/* Class = "UILabel"; text = "Crossfitness equipment"; ObjectID = "USg-f1-psG"; */
+"USg-f1-psG.text" = "Équipement Fitness";
+
+/* Class = "UILabel"; text = "Add your phone number to continue"; ObjectID = "VBd-Vl-h2O"; */
+"VBd-Vl-h2O.text" = "Ajoutez votre numéro de téléphone pour continuer";
+
+/* Class = "UILabel"; text = "Continue with Apple"; ObjectID = "Vqr-ED-pI8"; */
+"Vqr-ED-pI8.text" = "Continuer avec Apple";
+
+/* Class = "UILabel"; text = "CONTINUE WITH GOOGLE"; ObjectID = "Wsp-5c-Zj2"; */
+"Wsp-5c-Zj2.text" = "CONTINUER AVEC GOOGLE";
+
+/* Class = "UILabel"; text = "🇫🇷 +33"; ObjectID = "Xrr-RO-xbC"; */
+"Xrr-RO-xbC.text" = "🇫🇷 +33";
+
+/* Class = "UILabel"; text = "3 sessions per week"; ObjectID = "Y5H-9K-xy8"; */
+"Y5H-9K-xy8.text" = "3 sessions par semaine";
+
+/* Class = "UILabel"; text = "Your virtual coach will send you notifications to motivate you every day."; ObjectID = "YHE-RG-wXx"; */
+"YHE-RG-wXx.text" = "Votre coach virtuel vous enverra des notifications pour vous motiver.";
+
+/* Class = "UILabel"; text = "We need your email to share important messages with you. No spam, your email will not be shared."; ObjectID = "YJv-Uc-1jG"; */
+"YJv-Uc-1jG.text" = "Nous avons besoin de votre e-mail pour vous partager des messages importants. Pas de spam, votre e-mail ne sera pas partagé.";
+
+/* Class = "UILabel"; text = "Up to 5 sessions per week"; ObjectID = "ZbF-g5-Vs6"; */
+"ZbF-g5-Vs6.text" = "Jusqu'à 5 séances par semaine";
+
+/* Class = "UIButton"; normalTitle = "NEXT"; ObjectID = "Zoj-73-4xn"; */
+"Zoj-73-4xn.normalTitle" = "SUIVANT";
+
+/* Class = "UIButton"; normalTitle = "MORE SIGN UP OPTIONS"; ObjectID = "a7U-B6-qoT"; */
+"a7U-B6-qoT.normalTitle" = "PLUS D'OPTIONS";
+
+/* Class = "UILabel"; text = "Keep in touch.\nStay motivated."; ObjectID = "aDp-lC-bml"; */
+"aDp-lC-bml.text" = "Keep in touch.\nStay motivated.";
+
+/* Class = "UIButton"; normalTitle = "ALREADY REGISTERED ?"; ObjectID = "bRE-tJ-ubh"; */
+"bRE-tJ-ubh.normalTitle" = "DÉJÀ INSCRIT ?";
+
+/* Class = "UIButton"; normalTitle = "Normal"; ObjectID = "ccN-Cl-WEm"; */
+"ccN-Cl-WEm.normalTitle" = "Normal";
+
+/* Class = "UIButton"; normalTitle = "REGISTRATION"; ObjectID = "dtL-B5-vPB"; */
+"dtL-B5-vPB.normalTitle" = "INSCRIPTION";
+
+/* Class = "UILabel"; text = "Your size"; ObjectID = "eJk-Kp-pa5"; */
+"eJk-Kp-pa5.text" = "Votre taille";
+
+/* Class = "UILabel"; text = "Already bought ? "; ObjectID = "eKH-4F-M4g"; */
+"eKH-4F-M4g.text" = "Déjà acheté ? ";
+
+/* Class = "UILabel"; text = "Let's start with the presentations"; ObjectID = "ezu-ud-frw"; */
+"ezu-ud-frw.text" = "Commençons par les présentations";
+
+/* Class = "UILabel"; text = "Your answers allow us to design the most effective coaching program for you."; ObjectID = "fY5-SB-zyd"; */
+"fY5-SB-zyd.text" = "Vos réponses nous permettrons de concevoir pour vous le programme de coaching le plus efficace.";
+
+/* Class = "UILabel"; text = "+1 free session"; ObjectID = "fwt-XA-KOA"; */
+"fwt-XA-KOA.text" = "+1 session gratite";
+
+/* Class = "UIButton"; normalTitle = "GENERATE YOUR SESSIONS"; ObjectID = "g8h-Yy-Zud"; */
+"g8h-Yy-Zud.normalTitle" = "GÉNÉRER VOS SESSIONS";
+
+/* Class = "UILabel"; text = "Add a profile picture"; ObjectID = "gHr-eM-qSD"; */
+"gHr-eM-qSD.text" = "Ajouter une image de profil";
+
+/* Class = "UILabel"; text = "Without engagement"; ObjectID = "hFL-um-zTX"; */
+"hFL-um-zTX.text" = "Sans engagement";
+
+/* Class = "UILabel"; text = "6 MONTHS"; ObjectID = "hWj-Nf-qz6"; */
+"hWj-Nf-qz6.text" = "6 MOIS";
+
+/* Class = "UILabel"; text = "Analysis of your answers…"; ObjectID = "hZc-hm-cyN"; */
+"hZc-hm-cyN.text" = "Analyse de vos réponses…";
+
+/* Class = "UILabel"; text = "Your answers allow us to design the most effective coaching program for you."; ObjectID = "hnS-fm-cmz"; */
+"hnS-fm-cmz.text" = "Vos réponses nous permettrons de concevoir pour vous le programme de coaching le plus efficace.";
+
+/* Class = "UIButton"; normalTitle = "NEXT"; ObjectID = "ikE-tR-YOS"; */
+"ikE-tR-YOS.normalTitle" = "SUIVANT";
+
+/* Class = "UIButton"; normalTitle = "Skinny"; ObjectID = "kO0-YV-cjN"; */
+"kO0-YV-cjN.normalTitle" = "Mince";
+
+/* Class = "UIButton"; normalTitle = "SIGN IN"; ObjectID = "kaT-Xw-XOt"; */
+"kaT-Xw-XOt.normalTitle" = "Continuer avec votre téléphone";
+
+/* Class = "UILabel"; text = "This information will not be published on your profile."; ObjectID = "kcu-9e-QKK"; */
+"kcu-9e-QKK.text" = "Ces informations ne seront pas publiées sur votre profil.";
+
+/* Class = "UITextField"; placeholder = "Your email"; ObjectID = "mtC-wT-bXZ"; */
+"mtC-wT-bXZ.placeholder" = "Votre e-mail";
+
+/* Class = "UILabel"; text = "The subscription automatically renews if you do not cancel it at least 24 hours before the end of the current subscription period. \nYou can manage your subscription and disable automatic renewal at any time in your Apple account settings. \nBy purchasing, you accept our Terms of Use and Privacy Policy."; ObjectID = "n8M-yx-NVD"; */
+"n8M-yx-NVD.text" = "L'abonnement se renouvelle automatiquement si vous ne l'annulez pas au moins 24 heures avant la fin de la période d'abonnement en cours. \nVous pouvez gérer votre abonnement et désactiver le renouvellement automatique à tout moment dans les paramètres de votre compte iTunes. \nPour plus de détails, veuillez lire nos Conditions Générales d'Utilisation et notre Politique de Confidentialité.";
+
+/* Class = "UILabel"; text = "Last step"; ObjectID = "nYM-cy-Pb1"; */
+"nYM-cy-Pb1.text" = "Dernière étape";
+
+/* Class = "UILabel"; text = "Your training sessions  have been generated."; ObjectID = "oFu-zJ-k1Y"; */
+"oFu-zJ-k1Y.text" = "Votre programme de formation a bien été généré.";
+
+/* Class = "UILabel"; text = "Let's start with the presentations"; ObjectID = "qCQ-Oa-9ji"; */
+"qCQ-Oa-9ji.text" = "Commençons par les présentations";
+
+/* Class = "UILabel"; text = "Your weight goal"; ObjectID = "qwQ-07-UfC"; */
+"qwQ-07-UfC.text" = "Votre objectif de poids";
+
+/* Class = "UILabel"; text = "+1 free session"; ObjectID = "r4y-az-zA8"; */
+"r4y-az-zA8.text" = "+1 session gratuite";
+
+/* Class = "UILabel"; text = "Explanatory videos"; ObjectID = "t5r-65-0mY"; */
+"t5r-65-0mY.text" = "Vidéos explicatives";
+
+/* Class = "UILabel"; text = "Your answers allow us to design the most effective coaching program for you."; ObjectID = "tU9-SN-RTj"; */
+"tU9-SN-RTj.text" = "Vos réponses nous permettrons de concevoir pour vous le programme de coaching le plus efficace.";
+
+/* Class = "UILabel"; text = "Please add your last name"; ObjectID = "tld-TQ-RFu"; */
+"tld-TQ-RFu.text" = "Merci de bien vouloir ajouter votre nom.";
+
+/* Class = "UILabel"; text = "Your answers allow us to design the most effective coaching program for you."; ObjectID = "v8J-RO-4iZ"; */
+"v8J-RO-4iZ.text" = "Vos réponses nous permettrons de concevoir pour vous le programme de coaching le plus efficace.";
+
+/* Class = "UIButton"; normalTitle = "FINISH MY REGISTRATION"; ObjectID = "wiH-Oh-5LO"; */
+"wiH-Oh-5LO.normalTitle" = "TERMINER MON INSCRIPTION";
+
+/* Class = "UILabel"; text = "CONTINUE WITH FACEBOOK"; ObjectID = "xAH-j5-TGC"; */
+"xAH-j5-TGC.text" = "CONTINUER AVEC FACEBOOK";
+
+/* Class = "UILabel"; text = "Your date of birth"; ObjectID = "xgd-VC-vPJ"; */
+"xgd-VC-vPJ.text" = "Votre date de naissance";
+
+/* Class = "UILabel"; text = "With Crossfitness equipment"; ObjectID = "yXt-gT-I0d"; */
+"yXt-gT-I0d.text" = "Avec équipement Fitness";
+
+/* Class = "UILabel"; text = "Your answers allow us to design the most effective coaching program for you."; ObjectID = "z6b-ak-lDb"; */
+"z6b-ak-lDb.text" = "Vos réponses nous permettrons de concevoir pour vous le programme de coaching le plus efficace.";
+
+/* Class = "UILabel"; text = "It’s more fun with a real face."; ObjectID = "zCP-U0-qKR"; */
+"zCP-U0-qKR.text" = "C'est plus amusant avec un vrai visage.";

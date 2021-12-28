@@ -1,0 +1,13 @@
+/* 
+  InfoPlist.strings
+  VIKFIT
+
+*/
+
+NSCameraUsageDescription = "📸 Wir müssen auf die Kamera zugreifen, damit Sie Ihr Profil und Ihre Beiträge veranschaulichen können.";
+
+NSLocationUsageDescription = "📍 Wir müssen Ihren Standort kennen, um Ihnen die Benachrichtigungen basierend auf Ihrem Standort zu senden und Ihnen zu helfen, Benutzer in der Nähe zu finden.";
+
+NSLocationWhenInUseUsageDescription = "📍 Wir müssen Ihren Standort kennen, um Ihnen die Benachrichtigungen basierend auf Ihrem Standort zu senden und Ihnen zu helfen, Benutzer in der Nähe zu finden.";
+
+NSPhotoLibraryUsageDescription = "🖼 Wir müssen auf Ihre Galerie zugreifen, damit Sie Ihr Profil und Ihre Beiträge veranschaulichen können.";

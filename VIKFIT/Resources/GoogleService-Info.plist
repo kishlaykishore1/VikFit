@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>845483805453-a4c7b7jhtrgkqd76t1u8kc37k9iahr27.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.845483805453-a4c7b7jhtrgkqd76t1u8kc37k9iahr27</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>845483805453-ue5hpu61989j354hk1efq1303tb25v2a.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAx5ft6-FSuPbAypqtH244bh5iamPn1VKM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>845483805453</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.vikfit.ios</string>
+	<key>PROJECT_ID</key>
+	<string>vikfit-2492f</string>
+	<key>STORAGE_BUCKET</key>
+	<string>vikfit-2492f.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:845483805453:ios:648be747b496cc8d96fe44</string>
+	<key>DATABASE_URL</key>
+	<string>https://vikfit-2492f.firebaseio.com</string>
+</dict>
+</plist>

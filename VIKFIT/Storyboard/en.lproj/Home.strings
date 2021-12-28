@@ -1,0 +1,261 @@
+
+/* Class = "UILabel"; text = "Secondes"; ObjectID = "0Zi-oq-eI2"; */
+"0Zi-oq-eI2.text" = "Secondes";
+
+/* Class = "UILabel"; text = "PUBLISHED BY"; ObjectID = "1Fv-dE-0q4"; */
+"1Fv-dE-0q4.text" = "PUBLISHED BY";
+
+/* Class = "UILabel"; text = "By pressing Post a message you acknowledge that you have read our Privacy policy and that you accept our General conditions of use."; ObjectID = "1Up-iJ-ymA"; */
+"1Up-iJ-ymA.text" = "By pressing Post a message you acknowledge that you have read our Privacy policy and that you accept our General conditions of use.";
+
+/* Class = "UILabel"; text = "DESCRIPTION"; ObjectID = "1wW-7y-1Wo"; */
+"1wW-7y-1Wo.text" = "DESCRIPTION";
+
+/* Class = "UILabel"; text = "Chronomètre"; ObjectID = "3Eb-Xw-cRr"; */
+"3Eb-Xw-cRr.text" = "Stopwatch";
+
+/* Class = "UILabel"; text = "DURATION"; ObjectID = "4XV-IC-W0U"; */
+"4XV-IC-W0U.text" = "DURATION";
+
+/* Class = "UILabel"; text = "News"; ObjectID = "4sd-yp-Q5s"; */
+"4sd-yp-Q5s.text" = "News";
+
+/* Class = "UIButton"; normalTitle = "Delete my account"; ObjectID = "68n-4b-FlC"; */
+"68n-4b-FlC.normalTitle" = "Delete my account";
+
+/* Class = "UISearchBar"; placeholder = "Search for news ..."; ObjectID = "6Xy-MH-Icy"; */
+"6Xy-MH-Icy.placeholder" = "Search for news ...";
+
+/* Class = "UILabel"; text = "Powered by 55 • agency"; ObjectID = "6cG-r2-AmN"; */
+"6cG-r2-AmN.text" = "Powered by 55 • agency";
+
+/* Class = "UILabel"; text = "Say something ..."; ObjectID = "6fl-Fw-Liz"; */
+"6fl-Fw-Liz.text" = "Say something ...";
+
+/* Class = "UISearchBar"; placeholder = "Find an exercise ..."; ObjectID = "99F-Vr-mEN"; */
+"99F-Vr-mEN.placeholder" = "Find an exercise ...";
+
+/* Class = "UITextField"; placeholder = "Your first name"; ObjectID = "9xo-hl-FlO"; */
+"9xo-hl-FlO.placeholder" = "Your first name";
+
+/* Class = "UITextField"; text = "Hugo"; ObjectID = "9xo-hl-FlO"; */
+"9xo-hl-FlO.text" = "Hugo";
+
+/* Class = "UIButton"; normalTitle = "Add an image"; ObjectID = "0000000000000000"; */
+"KUv-It-rgq.text" = "Add an image";
+
+/* Class = "UILabel"; text = "Newsfeed"; ObjectID = "Cbj-G7-wlw"; */
+"Cbj-G7-wlw.text" = "Newsfeed";
+
+/* Class = "UIButton"; normalTitle = "STOPWATCH"; ObjectID = "CwW-Kv-oVP"; */
+"CwW-Kv-oVP.normalTitle" = "STOPWATCH";
+
+/* Class = "UILabel"; text = "Followers"; ObjectID = "Fa9-Fq-too"; */
+"Fa9-Fq-too.text" = "Followers";
+
+/* Class = "UIBarButtonItem"; title = "Save"; ObjectID = "GR4-hW-hYe"; */
+"GR4-hW-hYe.title" = "Save";
+
+/* Class = "UITextView"; text = "Write something ..."; ObjectID = "H9e-IK-N31"; */
+"H9e-IK-N31.text" = "Write something ...";
+
+/* Class = "UILabel"; text = "3d"; ObjectID = "JHu-xC-Iud"; */
+"JHu-xC-Iud.text" = "3d";
+
+/* Class = "UILabel"; text = "EDIT YOUR PROFIL"; ObjectID = "JX1-kT-ewW"; */
+"JX1-kT-ewW.text" = "EDIT YOUR PROFIL";
+
+/* Class = "UILabel"; text = "Séries"; ObjectID = "LaG-y6-Aq8"; */
+"LaG-y6-Aq8.text" = "Series";
+
+/* Class = "UIButton"; normalTitle = "SHARE THE APP"; ObjectID = "LaZ-TN-6My"; */
+"LaZ-TN-6My.normalTitle" = "SHARE THE APP";
+
+/* Class = "UILabel"; text = "No comments yet.\nBe the first to send your encouragement."; ObjectID = "Mli-un-4bN"; */
+"Mli-un-4bN.text" = "No comment yet.\nBe the first to send your encouragement.";
+
+/* Class = "UILabel"; text = "Aucun résultat pour votre recherche."; ObjectID = "N88-F0-GlR"; */
+"N88-F0-GlR.text" = "No result for your search.";
+
+/* Class = "UILabel"; text = "Version"; ObjectID = "O8G-LI-uEy"; */
+"O8G-LI-uEy.text" = "Version";
+
+/* Class = "UILabel"; text = "Getting started with CROSSFITNESS"; ObjectID = "OHV-6Z-C6g"; */
+"OHV-6Z-C6g.text" = "Getting started with FITNESS";
+
+/* Class = "UILabel"; text = "Follow us on Facebook"; ObjectID = "P1l-fy-5cs"; */
+"P1l-fy-5cs.text" = "Follow us on Facebook";
+
+/* Class = "UIButton"; normalTitle = "Sign out"; ObjectID = "PDV-GG-I0L"; */
+"PDV-GG-I0L.normalTitle" = "Sign out";
+
+/* Class = "UIButton"; normalTitle = "COMMENT (34)"; ObjectID = "PmX-Tk-0ZN"; */
+"PmX-Tk-0ZN.normalTitle" = "COMMENT (34)";
+
+/* Class = "UILabel"; text = "1.0"; ObjectID = "S10-aE-pOy"; */
+"S10-aE-pOy.text" = "1.0";
+
+/* Class = "UITabBarItem"; title = "Newsfeed"; ObjectID = "SFO-Zb-UKf"; */
+"SFO-Zb-UKf.title" = "Newsfeed";
+
+/* Class = "UILabel"; text = "No exercise in favorites."; ObjectID = "SSw-2f-lHQ"; */
+"SSw-2f-lHQ.text" = "No exercise in favorites.";
+
+/* Class = "UILabel"; text = "End of the session!\nYou have been great."; ObjectID = "TWn-a2-TA1"; */
+"TWn-a2-TA1.text" = "End of the session!\nYou have been great.";
+
+/* Class = "UILabel"; text = "Aucun résultat pour votre recherche."; ObjectID = "XiQ-lj-pc6"; */
+"XiQ-lj-pc6.text" = "No result for your search.";
+
+/* Class = "UILabel"; text = "Récupération"; ObjectID = "Y0a-Qr-xgC"; */
+"Y0a-Qr-xgC.text" = "Recovery";
+
+/* Class = "UILabel"; text = "DIFFICULTY"; ObjectID = "Y2K-lf-cSW"; */
+"Y2K-lf-cSW.text" = "DIFFICULTY";
+
+/* Class = "UILabel"; text = "CONSEIL DU COACH"; ObjectID = "YVl-QI-s2w"; */
+"YVl-QI-s2w.text" = "COACH ADVICE";
+
+/* Class = "UILabel"; text = "All users"; ObjectID = "Yn6-Pd-4gg"; */
+"Yn6-Pd-4gg.text" = "All users";
+
+/* Class = "UILabel"; text = "Discover your workouts of the week."; ObjectID = "Ywr-VM-LoV"; */
+"Ywr-VM-LoV.text" = "Check out your workout for the week. Stay in shape with the Fitness program by VIKFIT.";
+
+/* Class = "UILabel"; text = "Aucun résultat pour votre recherche."; ObjectID = "a6J-Fa-pdn"; */
+"a6J-Fa-pdn.text" = "Aucun résultat pour votre recherche.";
+
+/* Class = "UILabel"; text = "16'"; ObjectID = "cHd-Ek-d9v"; */
+"cHd-Ek-d9v.text" = "16'";
+
+/* Class = "UILabel"; text = "Restore purchases"; ObjectID = "dec-i3-L84"; */
+"dec-i3-L84.text" = "Restore purchases";
+
+/* Class = "UILabel"; text = "DIFFICULTY"; ObjectID = "ejh-ga-qH3"; */
+"ejh-ga-qH3.text" = "DIFFICULTY";
+
+/* Class = "UILabel"; text = "New exercices"; ObjectID = "fPT-3e-Hoo"; */
+"fPT-3e-Hoo.text" = "New exercices";
+
+/* Class = "UILabel"; text = "First name"; ObjectID = "gA0-hl-kRT"; */
+"gA0-hl-kRT.text" = "First name";
+
+/* Class = "UIButton"; normalTitle = "SUPPORT"; ObjectID = "gHq-Cw-Ciy"; */
+"gHq-Cw-Ciy.normalTitle" = "SUPPORT";
+
+/* Class = "UITabBarItem"; title = "Wods"; ObjectID = "gKP-M9-aRt"; */
+"gKP-M9-aRt.title" = "Wods";
+
+/* Class = "UINavigationItem"; title = "Settings"; ObjectID = "hJD-ZX-JjW"; */
+"hJD-ZX-JjW.title" = "Settings";
+
+/* Class = "UISearchBar"; placeholder = "Search for a user ..."; ObjectID = "hbc-nb-Wj8"; */
+"hbc-nb-Wj8.placeholder" = "Search for a user ...";
+
+/* Class = "UILabel"; text = "My favorites"; ObjectID = "htS-ps-AoE"; */
+"htS-ps-AoE.text" = "My favorites";
+
+/* Class = "UILabel"; text = "Weeks"; ObjectID = "igY-eA-h75"; */
+"igY-eA-h75.text" = "Weeks";
+
+/* Class = "UILabel"; text = "Followings"; ObjectID = "ivS-v4-Fri"; */
+"ivS-v4-Fri.text" = "Followings";
+
+/* Class = "UILabel"; text = "CONGRATS!"; ObjectID = "jKj-oH-UpZ"; */
+"jKj-oH-UpZ.text" = "CONGRATS!";
+
+/* Class = "UILabel"; text = "© 2020 VIKFIT  \nAll rights reserved"; ObjectID = "mcE-xl-Wyt"; */
+"mcE-xl-Wyt.text" = "© 2020 VIKFIT  \nAll rights reserved";
+
+/* Class = "UILabel"; text = "DESCRIPTION"; ObjectID = "n2H-4a-pBb"; */
+"n2H-4a-pBb.text" = "DESCRIPTION";
+
+/* Class = "UILabel"; text = "Pumps on Kettlebell"; ObjectID = "nEy-Vo-3gZ"; */
+"nEy-Vo-3gZ.text" = "Pumps on Kettlebell";
+
+/* Class = "UILabel"; text = "PUBLISHED THE"; ObjectID = "np0-D4-uhQ"; */
+"np0-D4-uhQ.text" = "PUBLISHED THE";
+
+/* Class = "UIButton"; normalTitle = "SUPPORT (234)"; ObjectID = "ntX-j7-lP8"; */
+"ntX-j7-lP8.normalTitle" = "SUPPORT (234)";
+
+/* Class = "UIButton"; normalTitle = "COMMENT (34)"; ObjectID = "nxf-MY-EjE"; */
+"nxf-MY-EjE.normalTitle" = "COMMENT (34)";
+
+/* Class = "UIButton"; normalTitle = "See all"; ObjectID = "o4p-2a-OEA"; */
+"o4p-2a-OEA.normalTitle" = "See all";
+
+/* Class = "UILabel"; text = "Enable notifications"; ObjectID = "pKC-9N-dv9"; */
+"pKC-9N-dv9.text" = "Enable notifications";
+
+/* Class = "UILabel"; text = "Minutes"; ObjectID = "pco-cp-1Xx"; */
+"pco-cp-1Xx.text" = "Minutes";
+
+/* Class = "UILabel"; text = "Evaluate the session!"; ObjectID = "pgi-7G-JtX"; */
+"pgi-7G-JtX.text" = "Evaluate the session!";
+
+/* Class = "UILabel"; text = "99+"; ObjectID = "pgm-Cb-O4I"; */
+"pgm-Cb-O4I.text" = "99+";
+
+/* Class = "UILabel"; text = "Warmup"; ObjectID = "pye-Ia-gDU"; */
+"pye-Ia-gDU.text" = "Warmup";
+
+/* Class = "UIButton"; normalTitle = "RÉINNITIALISER"; ObjectID = "qEZ-PP-i59"; */
+"qEZ-PP-i59.normalTitle" = "RESET";
+
+/* Class = "UILabel"; text = "Weeks"; ObjectID = "qhG-rr-gqw"; */
+"qhG-rr-gqw.text" = "Weeks";
+
+/* Class = "UITabBarItem"; title = "Profile"; ObjectID = "rMF-1e-fsf"; */
+"rMF-1e-fsf.title" = "Profile";
+
+/* Class = "UIButton"; normalTitle = "Back to home"; ObjectID = "sPE-uO-bTX"; */
+"sPE-uO-bTX.normalTitle" = "Back to home";
+
+/* Class = "UILabel"; text = "Notifications"; ObjectID = "ssG-65-gBU"; */
+"ssG-65-gBU.text" = "Notifications";
+
+/* Class = "UIButton"; normalTitle = "PUBLISH YOUR MESSAGE"; ObjectID = "tli-xo-8hn"; */
+"tli-xo-8hn.normalTitle" = "PUBLISH YOUR MESSAGE";
+
+/* Class = "UILabel"; text = "Followers"; ObjectID = "ukT-3L-r2z"; */
+"ukT-3L-r2z.text" = "Followers";
+
+/* Class = "UIButton"; normalTitle = "See all"; ObjectID = "v3c-9b-A67"; */
+"v3c-9b-A67.normalTitle" = "See all";
+
+/* Class = "UILabel"; text = "No notification yet. Please come back later."; ObjectID = "vES-zX-y2k"; */
+"vES-zX-y2k.text" = "No notification yet.  Please come back later.";
+
+/* Class = "UITabBarItem"; title = "Notifications"; ObjectID = "vtU-bd-eYN"; */
+"vtU-bd-eYN.title" = "Notifications";
+
+/* Class = "UITextField"; placeholder = "Add a comment …"; ObjectID = "vu8-38-xda"; */
+"vu8-38-xda.placeholder" = "Add a comment …";
+
+/* Class = "UILabel"; text = "Followings"; ObjectID = "wIN-cM-VGh"; */
+"wIN-cM-VGh.text" = "Followings";
+
+/* Class = "UIButton"; accessibilityLabel = "btnPrevious"; ObjectID = "wRE-he-hF1"; */
+"wRE-he-hF1.accessibilityLabel" = "btnPrevious";
+
+/* Class = "UIBarButtonItem"; title = "Cancel"; ObjectID = "wqQ-ve-cBc"; */
+"wqQ-ve-cBc.title" = "Cancel";
+
+/* Class = "UILabel"; text = "Published 26 june 2020"; ObjectID = "wsK-lU-XgN"; */
+"wsK-lU-XgN.text" = "Published 26 june 2020";
+
+/* Class = "UILabel"; text = "No publication for the moment.\nBe the first to post!"; ObjectID = "wwJ-NU-99T"; */
+"wwJ-NU-99T.text" = "No publication for the moment.\nBe the first to post!";
+
+/* Class = "UITextView"; text = "Add a little description about yourself ..."; ObjectID = "xPP-dd-8Be"; */
+"xPP-dd-8Be.text" = "Add a little description about yourself ...";
+
+/* Class = "UIButton"; accessibilityLabel = "btnNext"; ObjectID = "ypI-db-h3x"; */
+"ypI-db-h3x.accessibilityLabel" = "btnNext";
+
+/* Class = "UITabBarItem"; title = "Favorites"; ObjectID = "ywh-ZY-QCg"; */
+"ywh-ZY-QCg.title" = "Favorites";
+
+/* Class = "UILabel"; text = "DURATION"; ObjectID = "z0p-Jk-Ssh"; */
+"z0p-Jk-Ssh.text" = "DURATION";

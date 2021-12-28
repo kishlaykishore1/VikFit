@@ -1,0 +1,261 @@
+
+/* Class = "UILabel"; text = "Secondes"; ObjectID = "0Zi-oq-eI2"; */
+"0Zi-oq-eI2.text" = "Secondes";
+
+/* Class = "UILabel"; text = "PUBLISHED BY"; ObjectID = "1Fv-dE-0q4"; */
+"1Fv-dE-0q4.text" = "VERÖFFENTLICHT VON";
+
+/* Class = "UILabel"; text = "By pressing Post a message you acknowledge that you have read our Privacy policy and that you accept our General conditions of use."; ObjectID = "1Up-iJ-ymA"; */
+"1Up-iJ-ymA.text" = "Durch Drücken von Nachricht senden bestätigen Sie, dass Sie unsere Datenschutzrichtlinie gelesen haben und unsere Allgemeinen Nutzungsbedingungen akzeptieren.";
+
+/* Class = "UILabel"; text = "DESCRIPTION"; ObjectID = "1wW-7y-1Wo"; */
+"1wW-7y-1Wo.text" = "BESCHREIBUNG";
+
+/* Class = "UILabel"; text = "Chronomètre"; ObjectID = "3Eb-Xw-cRr"; */
+"3Eb-Xw-cRr.text" = "Stoppuhr";
+
+/* Class = "UILabel"; text = "DURATION"; ObjectID = "4XV-IC-W0U"; */
+"4XV-IC-W0U.text" = "DAUER";
+
+/* Class = "UILabel"; text = "News"; ObjectID = "4sd-yp-Q5s"; */
+"4sd-yp-Q5s.text" = "Nachrichten";
+
+/* Class = "UIButton"; normalTitle = "Delete my account"; ObjectID = "68n-4b-FlC"; */
+"68n-4b-FlC.normalTitle" = "Lösche mein Konto";
+
+/* Class = "UISearchBar"; placeholder = "Search for news ..."; ObjectID = "6Xy-MH-Icy"; */
+"6Xy-MH-Icy.placeholder" = "Nach Nachrichten suchen...";
+
+/* Class = "UILabel"; text = "Powered by 55 • agency"; ObjectID = "6cG-r2-AmN"; */
+"6cG-r2-AmN.text" = "Powered by 55 • agency";
+
+/* Class = "UILabel"; text = "Say something ..."; ObjectID = "6fl-Fw-Liz"; */
+"6fl-Fw-Liz.text" = "Sag etwas...";
+
+/* Class = "UISearchBar"; placeholder = "Find an exercise ..."; ObjectID = "99F-Vr-mEN"; */
+"99F-Vr-mEN.placeholder" = "Finde eine Übung...";
+
+/* Class = "UITextField"; placeholder = "Your first name"; ObjectID = "9xo-hl-FlO"; */
+"9xo-hl-FlO.placeholder" = "Ihr Vorname";
+
+/* Class = "UITextField"; text = "Hugo"; ObjectID = "9xo-hl-FlO"; */
+"9xo-hl-FlO.text" = "Hugo";
+
+/* Class = "UILabel"; text = "Newsfeed"; ObjectID = "Cbj-G7-wlw"; */
+"Cbj-G7-wlw.text" = "Neuigkeiten";
+
+/* Class = "UIButton"; normalTitle = "STOPWATCH"; ObjectID = "CwW-Kv-oVP"; */
+"CwW-Kv-oVP.normalTitle" = "STOPPUHR";
+
+/* Class = "UILabel"; text = "Followers"; ObjectID = "Fa9-Fq-too"; */
+"Fa9-Fq-too.text" = "Anhänger";
+
+/* Class = "UIBarButtonItem"; title = "Save"; ObjectID = "GR4-hW-hYe"; */
+"GR4-hW-hYe.title" = "Sparen";
+
+/* Class = "UITextView"; text = "Write something ..."; ObjectID = "H9e-IK-N31"; */
+"H9e-IK-N31.text" = "Schreibe etwas...";
+
+/* Class = "UILabel"; text = "3d"; ObjectID = "JHu-xC-Iud"; */
+"JHu-xC-Iud.text" = "3d";
+
+/* Class = "UILabel"; text = "EDIT YOUR PROFIL"; ObjectID = "JX1-kT-ewW"; */
+"JX1-kT-ewW.text" = "BEARBEITE DEIN PROFIL";
+
+/* Class = "UILabel"; text = "Add an image"; ObjectID = "KUv-It-rgq"; */
+"KUv-It-rgq.text" = "Fügen Sie ein Bild hinzu";
+
+/* Class = "UILabel"; text = "Séries"; ObjectID = "LaG-y6-Aq8"; */
+"LaG-y6-Aq8.text" = "Serie";
+
+/* Class = "UIButton"; normalTitle = "SHARE THE APP"; ObjectID = "LaZ-TN-6My"; */
+"LaZ-TN-6My.normalTitle" = "TEILEN SIE DIE APP";
+
+/* Class = "UILabel"; text = "No comments yet.\nBe the first to send your encouragement."; ObjectID = "Mli-un-4bN"; */
+"Mli-un-4bN.text" = "Noch keine Kommentare. \nSchicken Sie als Erster Ihre Ermutigung.";
+
+/* Class = "UILabel"; text = "Aucun résultat pour votre recherche."; ObjectID = "N88-F0-GlR"; */
+"N88-F0-GlR.text" = "Kein Ergebnis für Ihre Suche.";
+
+/* Class = "UILabel"; text = "Version"; ObjectID = "O8G-LI-uEy"; */
+"O8G-LI-uEy.text" = "Ausführung";
+
+/* Class = "UILabel"; text = "Getting started with CROSSFITNESS"; ObjectID = "OHV-6Z-C6g"; */
+"OHV-6Z-C6g.text" = "Erste Schritte mit FITNESS";
+
+/* Class = "UILabel"; text = "Follow us on Facebook"; ObjectID = "P1l-fy-5cs"; */
+"P1l-fy-5cs.text" = "Folge uns auf Facebook";
+
+/* Class = "UIButton"; normalTitle = "Sign out"; ObjectID = "PDV-GG-I0L"; */
+"PDV-GG-I0L.normalTitle" = "Ausloggen";
+
+/* Class = "UIButton"; normalTitle = "COMMENT (34)"; ObjectID = "PmX-Tk-0ZN"; */
+"PmX-Tk-0ZN.normalTitle" = "KOMMENTAR (34)";
+
+/* Class = "UILabel"; text = "1.0"; ObjectID = "S10-aE-pOy"; */
+"S10-aE-pOy.text" = "1.0";
+
+/* Class = "UITabBarItem"; title = "Newsfeed"; ObjectID = "SFO-Zb-UKf"; */
+"SFO-Zb-UKf.title" = "Neuigkeiten";
+
+/* Class = "UILabel"; text = "No exercise in favorites."; ObjectID = "SSw-2f-lHQ"; */
+"SSw-2f-lHQ.text" = "Keine Übung in Favoriten.";
+
+/* Class = "UILabel"; text = "End of the session!\nYou have been great."; ObjectID = "TWn-a2-TA1"; */
+"TWn-a2-TA1.text" = "Ende der Sitzung! \nDu warst großartig.";
+
+/* Class = "UILabel"; text = "Aucun résultat pour votre recherche."; ObjectID = "XiQ-lj-pc6"; */
+"XiQ-lj-pc6.text" = "Kein Ergebnis für Ihre Suche.";
+
+/* Class = "UILabel"; text = "Récupération"; ObjectID = "Y0a-Qr-xgC"; */
+"Y0a-Qr-xgC.text" = "Wiederherstellung";
+
+/* Class = "UILabel"; text = "DIFFICULTY"; ObjectID = "Y2K-lf-cSW"; */
+"Y2K-lf-cSW.text" = "SCHWIERIGKEIT";
+
+/* Class = "UILabel"; text = "CONSEIL DU COACH"; ObjectID = "YVl-QI-s2w"; */
+"YVl-QI-s2w.text" = "COACH-HINWEIS";
+
+/* Class = "UILabel"; text = "All users"; ObjectID = "Yn6-Pd-4gg"; */
+"Yn6-Pd-4gg.text" = "Alle Nutzer";
+
+/* Class = "UILabel"; text = "Check out your workout for the week. Stay in shape with the Crossfitness program by VIKFIT."; ObjectID = "Ywr-VM-LoV"; */
+"Ywr-VM-LoV.text" = "Überprüfen Sie Ihr Training für die Woche. Bleiben Sie mit dem Fitness-Programm von VIKFIT in Form.";
+
+/* Class = "UILabel"; text = "Aucun résultat pour votre recherche."; ObjectID = "a6J-Fa-pdn"; */
+"a6J-Fa-pdn.text" = "Kein Ergebnis für Ihre Suche.";
+
+/* Class = "UILabel"; text = "16'"; ObjectID = "cHd-Ek-d9v"; */
+"cHd-Ek-d9v.text" = "16'";
+
+/* Class = "UILabel"; text = "Restore purchases"; ObjectID = "dec-i3-L84"; */
+"dec-i3-L84.text" = "Einkäufe wiederherstellen";
+
+/* Class = "UILabel"; text = "DIFFICULTY"; ObjectID = "ejh-ga-qH3"; */
+"ejh-ga-qH3.text" = "SCHWIERIGKEIT";
+
+/* Class = "UILabel"; text = "New exercices"; ObjectID = "fPT-3e-Hoo"; */
+"fPT-3e-Hoo.text" = "Neue Übungen";
+
+/* Class = "UILabel"; text = "First name"; ObjectID = "gA0-hl-kRT"; */
+"gA0-hl-kRT.text" = "Vorname";
+
+/* Class = "UIButton"; normalTitle = "SUPPORT"; ObjectID = "gHq-Cw-Ciy"; */
+"gHq-Cw-Ciy.normalTitle" = "UNTERSTÜTZUNG";
+
+/* Class = "UITabBarItem"; title = "Wods"; ObjectID = "gKP-M9-aRt"; */
+"gKP-M9-aRt.title" = "Wods";
+
+/* Class = "UINavigationItem"; title = "Settings"; ObjectID = "hJD-ZX-JjW"; */
+"hJD-ZX-JjW.title" = "Einstellungen";
+
+/* Class = "UISearchBar"; placeholder = "Search for a user ..."; ObjectID = "hbc-nb-Wj8"; */
+"hbc-nb-Wj8.placeholder" = "Suche nach einem Benutzer...";
+
+/* Class = "UILabel"; text = "My favorites"; ObjectID = "htS-ps-AoE"; */
+"htS-ps-AoE.text" = "Meine Favoriten";
+
+/* Class = "UILabel"; text = "Weeks"; ObjectID = "igY-eA-h75"; */
+"igY-eA-h75.text" = "Wochen";
+
+/* Class = "UILabel"; text = "Followings"; ObjectID = "ivS-v4-Fri"; */
+"ivS-v4-Fri.text" = "Folgen";
+
+/* Class = "UILabel"; text = "CONGRATS!"; ObjectID = "jKj-oH-UpZ"; */
+"jKj-oH-UpZ.text" = "CONGRATS!";
+
+/* Class = "UILabel"; text = "© 2020 VIKFIT  \nAll rights reserved"; ObjectID = "mcE-xl-Wyt"; */
+"mcE-xl-Wyt.text" = "© 2020 VIKFIT  \nAll rights reserved";
+
+/* Class = "UILabel"; text = "DESCRIPTION"; ObjectID = "n2H-4a-pBb"; */
+"n2H-4a-pBb.text" = "BESCHREIBUNG";
+
+/* Class = "UILabel"; text = "Pumps on Kettlebell"; ObjectID = "nEy-Vo-3gZ"; */
+"nEy-Vo-3gZ.text" = "Pumps on Kettlebell";
+
+/* Class = "UILabel"; text = "PUBLISHED THE"; ObjectID = "np0-D4-uhQ"; */
+"np0-D4-uhQ.text" = "VERÖFFENTLICHT DIE";
+
+/* Class = "UIButton"; normalTitle = "SUPPORT (234)"; ObjectID = "ntX-j7-lP8"; */
+"ntX-j7-lP8.normalTitle" = "UNTERSTÜTZUNG (234)";
+
+/* Class = "UIButton"; normalTitle = "COMMENT (34)"; ObjectID = "nxf-MY-EjE"; */
+"nxf-MY-EjE.normalTitle" = "KOMMENTAR (34)";
+
+/* Class = "UIButton"; normalTitle = "See all"; ObjectID = "o4p-2a-OEA"; */
+"o4p-2a-OEA.normalTitle" = "Alles sehen";
+
+/* Class = "UILabel"; text = "Enable notifications"; ObjectID = "pKC-9N-dv9"; */
+"pKC-9N-dv9.text" = "Benachrichtigungen aktivieren";
+
+/* Class = "UILabel"; text = "Minutes"; ObjectID = "pco-cp-1Xx"; */
+"pco-cp-1Xx.text" = "Protokoll";
+
+/* Class = "UILabel"; text = "Evaluate the session!"; ObjectID = "pgi-7G-JtX"; */
+"pgi-7G-JtX.text" = "Bewerten Sie die Sitzung!";
+
+/* Class = "UILabel"; text = "99+"; ObjectID = "pgm-Cb-O4I"; */
+"pgm-Cb-O4I.text" = "99+";
+
+/* Class = "UILabel"; text = "Warmup"; ObjectID = "pye-Ia-gDU"; */
+"pye-Ia-gDU.text" = "Warmup";
+
+/* Class = "UIButton"; normalTitle = "RÉINNITIALISER"; ObjectID = "qEZ-PP-i59"; */
+"qEZ-PP-i59.normalTitle" = "RESET";
+
+/* Class = "UILabel"; text = "Weeks"; ObjectID = "qhG-rr-gqw"; */
+"qhG-rr-gqw.text" = "Wochen";
+
+/* Class = "UITabBarItem"; title = "Profile"; ObjectID = "rMF-1e-fsf"; */
+"rMF-1e-fsf.title" = "Profil";
+
+/* Class = "UIButton"; normalTitle = "Back to home"; ObjectID = "sPE-uO-bTX"; */
+"sPE-uO-bTX.normalTitle" = "Zurück nach Hause";
+
+/* Class = "UILabel"; text = "Notifications"; ObjectID = "ssG-65-gBU"; */
+"ssG-65-gBU.text" = "Benachrichtigungen";
+
+/* Class = "UIButton"; normalTitle = "PUBLISH YOUR MESSAGE"; ObjectID = "tli-xo-8hn"; */
+"tli-xo-8hn.normalTitle" = "VERÖFFENTLICHEN SIE IHRE NACHRICHT";
+
+/* Class = "UILabel"; text = "Followers"; ObjectID = "ukT-3L-r2z"; */
+"ukT-3L-r2z.text" = "Anhänger";
+
+/* Class = "UIButton"; normalTitle = "See all"; ObjectID = "v3c-9b-A67"; */
+"v3c-9b-A67.normalTitle" = "Alles sehen";
+
+/* Class = "UILabel"; text = "No notification yet. Please come back later."; ObjectID = "vES-zX-y2k"; */
+"vES-zX-y2k.text" = "Noch keine Benachrichtigung. Bitte komme später zurück.";
+
+/* Class = "UITabBarItem"; title = "Notifications"; ObjectID = "vtU-bd-eYN"; */
+"vtU-bd-eYN.title" = "Benachrichtigungen";
+
+/* Class = "UITextField"; placeholder = "Add a comment …"; ObjectID = "vu8-38-xda"; */
+"vu8-38-xda.placeholder" = "Einen Kommentar hinzufügen…";
+
+/* Class = "UILabel"; text = "Followings"; ObjectID = "wIN-cM-VGh"; */
+"wIN-cM-VGh.text" = "Folgen";
+
+/* Class = "UIButton"; accessibilityLabel = "btnPrevious"; ObjectID = "wRE-he-hF1"; */
+"wRE-he-hF1.accessibilityLabel" = "btnPrevious";
+
+/* Class = "UIBarButtonItem"; title = "Cancel"; ObjectID = "wqQ-ve-cBc"; */
+"wqQ-ve-cBc.title" = "Stornieren";
+
+/* Class = "UILabel"; text = "Published 26 june 2020"; ObjectID = "wsK-lU-XgN"; */
+"wsK-lU-XgN.text" = "Veröffentlicht am 26. Juni 2020";
+
+/* Class = "UILabel"; text = "No publication for the moment.\nBe the first to post!"; ObjectID = "wwJ-NU-99T"; */
+"wwJ-NU-99T.text" = "Momentan keine Veröffentlichung. \nSei der Erste, der etwas veröffentlicht!";
+
+/* Class = "UITextView"; text = "Add a little description about yourself ..."; ObjectID = "xPP-dd-8Be"; */
+"xPP-dd-8Be.text" = "Füge eine kleine Beschreibung über dich hinzu...";
+
+/* Class = "UIButton"; accessibilityLabel = "btnNext"; ObjectID = "ypI-db-h3x"; */
+"ypI-db-h3x.accessibilityLabel" = "btnNext";
+
+/* Class = "UITabBarItem"; title = "Favorites"; ObjectID = "ywh-ZY-QCg"; */
+"ywh-ZY-QCg.title" = "Favoriten";
+
+/* Class = "UILabel"; text = "DURATION"; ObjectID = "z0p-Jk-Ssh"; */
+"z0p-Jk-Ssh.text" = "DAUER";
